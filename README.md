@@ -36,7 +36,7 @@
     * 美区/日区/台区/韩区等 Apple ID、密码 自备
 
 
-- 自备 Quantumult X｜Loon｜Surge｜Shadowrocket
+- 自备 Quantumult X｜Loon｜Surge
  
      * 可在美区/日区等 App Store 获取
 
