@@ -7,7 +7,6 @@
 * [Quantumult X](#Quantumult%20X)
 * [Loon](#Loon)
 * [Surge](#Surge)
-* [Shadowrocket](#Shadowrocket)
 
 * [TikTok 去水印下载捷径](#去水印下载捷径)
 
@@ -200,41 +199,6 @@ https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Surge/TiKok-US.s
 ```
 
 https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Surge/TikTok.list
-
-```
-
----
-
-### <a id="Shadowrocket"> Shadowrocket </a>
-
-
-**操作步骤**
-
-1、打开`Shadowrocket`  
-
-2、点击`配置`进去添加想看国家的对应模块。
-
-```
-
-日本
-https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Shadowrocket/TiKok-JP.conf
-
-台湾
-https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Shadowrocket/TiKok-TW.conf
-
-韩国
-https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Shadowrocket/TiKok-KR.conf
-
-美国
-https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Shadowrocket/TiKok-US.conf
-
-```
-
-3、添加以下`分流`
-
-```
-
-https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Shadowrocket/TikTok.list
 
 ```
 
